@@ -1,1 +1,2 @@
-tommorow is sunday
+tommorow is sunday,
+may be a better day
